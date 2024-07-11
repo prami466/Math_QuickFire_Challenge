@@ -27,3 +27,9 @@ End of Game:
 
 
 The total time taken to complete all problems is calculated and displayed along with the number of wrong attempts.
+
+
+
+
+This game encourages quick thinking and arithmetic skills by challenging players to solve problems accurately and quickly.
+
