@@ -4,7 +4,7 @@ Code Overview:
 
 Constants:
 
-    OPERATORS: List of possible operators (+, -, *).
+OPERATORS: List of possible operators (+, -, *).
 
 MIN_OPERAND and MAX_OPERAND: Range for generating random operands.
 
